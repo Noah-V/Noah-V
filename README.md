@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Noah-V
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Software Engineer
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me noahvikoo3@gmail.com
 
 <!---
